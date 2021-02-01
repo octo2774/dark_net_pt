@@ -1,1 +1,2 @@
-# dark_net_pt
+# Darknet
+Darkent - Object Detection
